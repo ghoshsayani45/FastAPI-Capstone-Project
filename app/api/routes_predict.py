@@ -15,6 +15,7 @@ class CarFeatures(BaseModel):
     km_driven: float
     mileage_mpg: float
     engine_cc: float
+    max_power_bhp: float
     torque_nm: float
     seats: float
 
